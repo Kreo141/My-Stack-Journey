@@ -1,0 +1,18 @@
+AGENTS.md
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Local environment files; keep the empty example template
+.env*
+!.env.example
+
+# Tool output
+.vitest/
+coverage/
+*.tsbuildinfo
+*.log
